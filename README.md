@@ -5,4 +5,5 @@
 ![Ain't nobody got time for that](TONDq.gif)
 ![Should I just go fuck myself](hank.gif)
 ![That's Hot](thatsHot.gif)
-\![It's Science](itsScience.gif)
+![It's Science](itsScience.gif)
+![Scotty's on Fire](scottysOnFire.gif)
