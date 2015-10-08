@@ -7,3 +7,4 @@
 ![That's Hot](thatsHot.gif)
 ![It's Science](itsScience.gif)
 ![Scotty's on Fire](scottysOnFire.gif)
+![Air Bass Guitar Solo](airBassSoloPokemon.gif)
